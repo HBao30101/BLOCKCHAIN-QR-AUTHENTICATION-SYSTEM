@@ -76,7 +76,7 @@ contracts/ → Smart contract (blockchain layer)
 
 ```bash
 # 1️⃣ Clone repository
-git clone https://github.com/hoai-bao/blockchain-qr-auth.git
+https://github.com/HBao30101/BLOCKCHAIN-QR-AUTHENTICATION-SYSTEM.git
 
 # 2️⃣ Install dependencies
 cd client && npm install
@@ -109,7 +109,7 @@ npm run dev
 👨‍💻 Author
 
 Huỳnh Hoài Bảo — Full-stack Developer
-📧 huynhhoaibao.dev@gmail.com
+📧 Hoaibao30101.@gmail.com
 
 🌐 Portfolio: [Coming Soon]
 📍 Vietnam
