@@ -35,7 +35,9 @@ React, Node.js, Express, MongoDB, Blockchain (Ethereum/Hyperledger)
 ## 📂 Project Structure
 
 client/ → React frontend
+
 server/ → Node.js + Express + MongoDB backend
+
 contracts/ → Smart contract (blockchain layer)
 
 ---
